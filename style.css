@@ -32,8 +32,8 @@ h1 {
 }
 
 section {
-    max-width: 800px;  /* Constrains width on big screens */
-    margin: 40px auto;  /* Centers sections and adds space between them */
+    max-width: 800px;  
+    margin: 40px auto; 
     padding: 30px;
     text-align: center;
     background-color: var(--card-background);
